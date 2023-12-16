@@ -4,6 +4,6 @@ matplotlib
 pyserial
 h5py
 scipy
-sklearn
+scikit-learn
 bleak
 shapely
